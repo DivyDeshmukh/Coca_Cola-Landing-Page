@@ -427,6 +427,7 @@ nav {
 
 @media screen and (max-width: 380px) {
   #content-div1 {
+    align-items: flex-start;
     padding-top: 55px;
   }
 
